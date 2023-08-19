@@ -1,8 +1,30 @@
-- 👋 Hi, I’m Anik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 💫 ᴀʙᴏᴜᴛ ᴍᴇ:
+Hɪ I, ᴍ Anik 🥀<br>I ʟᴏᴠᴇ Kanging 💖<br> Lᴇaʀɴᴇʀ 💫<br>Lɪғᴇ ɪs ᴛᴏᴏ sʜᴏʀᴛ ʟɪᴠᴇ ʟɪᴋᴇ ᴀ ᴋɪɴɢ 🌲<br>Tʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ ᴜs 🌸
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+    <img align="middle" src="https://profile-counter.glitch.me/ItzRocksKrishna/count.svg" />
+</p>
+
+<p align="center"><a href="https://t.me/Anik_x_Pro"><img src="https://te.legra.ph/file/a4d65da8543cb53db768f.jpg" width="300"></a></p>
+
+## sᴏᴄɪᴀʟs:
+<a href="https://github.com/anikalwayspro" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/Anik_x_pro" target="_blank">
+<img src="https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/Anik_x_Pro" target="_blank">
+<img src="https://img.shields.io/badge/Insta-%2324292e.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
+
+## ɢɪᴛʜᴜʙ sᴛᴀᴛs:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItzRocksKrishna&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikalwayspro&theme=blue-green&hide_border=false" />
+</p>
+
 
 <!---
 anikalwayspro/anikalwayspro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
