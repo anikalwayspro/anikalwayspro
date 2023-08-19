@@ -21,7 +21,7 @@ Hɪ I, ᴍ Anik 🥀<br>I ʟᴏᴠᴇ Kanging 💖<br> Lᴇaʀɴᴇʀ 💫<br>L�
 
 ## ɢɪᴛʜᴜʙ sᴛᴀᴛs:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItzRocksKrishna&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anikalwayspro&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikalwayspro&theme=blue-green&hide_border=false" />
 </p>
 
