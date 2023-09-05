@@ -6,7 +6,7 @@ Hɪ I, ᴍ Anik 🥀<br>I ʟᴏᴠᴇ Kanging 💖<br> Lᴇaʀɴᴇʀ 💫<br>L�
     <img align="middle" src="https://profile-counter.glitch.me/anikalwayspro/count.svg" />
 </p>
 
-<p align="center"><a href="https://t.me/Anik_x_Pro"><img src="https://te.legra.ph/file/801b3c89faf948ce54729.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Anik_x_Pro"><img src="https://te.legra.ph/file/ae09b97cbb57c677fd802.jpg" width="300"></a></p>
 
 ## sᴏᴄɪᴀʟs:
 <a href="https://github.com/anikalwayspro" target="_blank">
