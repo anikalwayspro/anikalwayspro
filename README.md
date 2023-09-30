@@ -1,32 +1,23 @@
-# 💫 ᴀʙᴏᴜᴛ ᴍᴇ:
-Hɪ I, ᴍ Anik 🥀<br>I ʟᴏᴠᴇ Kanging 💖<br> Lᴇaʀɴᴇʀ 💫<br>Lɪғᴇ ɪs ᴛᴏᴏ sʜᴏʀᴛ ʟɪᴠᴇ ʟɪᴋᴇ ᴀ ᴋɪɴɢ 🌲<br>Tʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ ᴜs 🌸
 
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
-    <img align="middle" src="https://profile-counter.glitch.me/anikalwayspro/count.svg" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗲𝗹𝗰𝗼𝗺𝗲+𝘁𝗼+𝗠𝘆+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗠𝘆𝘀𝗲𝗹𝗳+Anik+Piro😻!)
 </p>
 
-<p align="center"><a href="https://t.me/Anik_x_Pro"><img src="https://te.legra.ph/file/ae09b97cbb57c677fd802.jpg" width="300"></a></p>
+# About Me 
 
-## sᴏᴄɪᴀʟs:
-<a href="https://github.com/anikalwayspro" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/Anik_x_pro" target="_blank">
-<img src="https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/Anik_x_Pro" target="_blank">
-<img src="https://img.shields.io/badge/Insta-%2324292e.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>
+- I live in India 🇮🇳, Bengal.
+- Standard 11th 
 
-## ɢɪᴛʜᴜʙ sᴛᴀᴛs:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anikalwayspro&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikalwayspro&theme=blue-green&hide_border=false" />
-</p>
+[![Anik](https://github-stats-alpha.vercel.app/api?username=anikalwayspro "Anik😻 ")](https://github-stats-alpha.vercel.app/api?username=anikalwayspro "Anik")
 
 
-<!---
-anikalwayspro/anikalwayspro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Social Media
+
+<a href="https://t.me/Anik_x_Pro"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/_._.anik_._"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://youtube.com/@Feelings_of_My_Hearts"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="100px" height="100px"></a> 
+
+
+## 📊 &nbsp;My Bots
+ Here is my all bots
+
+<a href="https://t.me/Sizuka_grouphelp_bot"><img src="https://img.shields.io/badge/Check-Queen%20Robot-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Sizuka_grouphelp_bot"><img src="https://img.shields.io/badge/Check-RedWine%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a>
